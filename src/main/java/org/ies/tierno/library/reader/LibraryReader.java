@@ -12,7 +12,7 @@ import java.util.*;
 @AllArgsConstructor
 public class LibraryReader implements Reader<Library> {
     private final Random random;
-    private fial Reader<Book> bookReader;
+    private final Reader<Book> bookReader;
     private final Reader<Customer> customerReader;
 
     @Override
