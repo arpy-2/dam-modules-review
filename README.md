@@ -10,6 +10,7 @@
 </p>
 
 # 📂 Módulos de DAM
+
 ```text
 root/
 ├── 📝 Lenguajes-de-Marcas/
@@ -19,7 +20,7 @@ root/
 │   ├── Configuraciones/
 │   └── Practicas/
 └── 📄 README.md
-
+```
 ---
 
 ### 🛠️ Contenido del Repositorio
