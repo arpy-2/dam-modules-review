@@ -12,14 +12,14 @@
 # 📂 Módulos de DAM
 
 ```text
-root/
-├── 📝 Lenguajes-de-Marcas/
+dam-modules-review/
+├── Lenguajes-de-Marcas/
 │   ├── Apuntes/
 │   └── Ejercicios/
-├── ⚙️ Sistemas-Informaticos/
+├── Sistemas-Informaticos/
 │   ├── Configuraciones/
 │   └── Practicas/
-└── 📄 README.md
+└── README.md
 ```
 ---
 
