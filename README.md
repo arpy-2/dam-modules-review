@@ -1,5 +1,4 @@
-# 📚 dam-modules-review
-
+# Módulos de DAM
 ![DAM](https://img.shields.io/badge/Grado-DAM-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Status](https://img.shields.io/badge/Estado-En_Progreso-orange?style=for-the-badge)
 ![Course](https://img.shields.io/badge/Curso-1º_Primero-green?style=for-the-badge)
