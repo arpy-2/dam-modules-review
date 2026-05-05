@@ -26,7 +26,4 @@ Material de repaso y recursos de **1º de DAM (Desarrollo de Aplicaciones Multip
 ---
 
 > [!Note]
-> Este es un repositorio personal para organizar mi estudio en el grado superior. El contenido se va actualizando a medida que avanza el curso.
-
----
-*Hecho por un estudiante de DAM para estudiantes de DAM.*
+> Este es un repositorio es personal para organizar las clases de estudio para el grado superior. Se irá actualizando el contenido a medida que avancen las clases.
