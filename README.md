@@ -1,6 +1,6 @@
 ![DAM](https://img.shields.io/badge/Grado_Superior-1º_DAM-blue?style=flat&logo=bookstack&logoColor=white)
 ![Status](https://img.shields.io/badge/Estado-En_Progreso-orange?style=flat&logo=git&logoColor=white)
-![Content](https://img.shields.io/badge/Contenido-Sistemas_Informaticos_y_Lenguaje_de_Marcas-2ea44f?style=flat&logo=codeforces&logoColor=white)
+![Content](https://img.shields.io/badge/Modulos-Sistemas_Informaticos_y_Lenguaje_de_Marcas-2ea44f?style=flat&logo=codeforces&logoColor=white)
 
 # Módulos de DAM
 Material de repaso y recursos de **1º de DAM (Desarrollo de Aplicaciones Multiplataforma)**. He creado este repositorio para tener organizados los apuntes, ejercicios y proyectos de los módulos más técnicos del primer año.
