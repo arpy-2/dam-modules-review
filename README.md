@@ -9,17 +9,16 @@
   <img src="https://img.shields.io/badge/Estado-En_Progreso-yellow?style=flat&logo=git&logoColor=white" alt="Status">
 </p>
 
-# Módulos de DAM
-Material de repaso y recursos de **1º de DAM (Desarrollo de Aplicaciones Multiplataforma)**. He creado este repositorio para tener organizados los apuntes, ejercicios y proyectos de los módulos más técnicos del primer año.
-
----
-
-### 📂 Módulos Principales
-
-| Módulo | Descripción | Herramientas |
-| :--- | :--- | :--- |
-| **Lenguajes de Marcas** | HTML5, CSS3, XML y gestión de información. | VS Code, Browser |
-| **Sistemas Informáticos** | Hardware, Sistemas Operativos y Redes. | VirtualBox, CMD/Bash |
+# 📂 Módulos de DAM
+```text
+root/
+├── 📝 Lenguajes-de-Marcas/
+│   ├── Apuntes/
+│   └── Ejercicios/
+├── ⚙️ Sistemas-Informaticos/
+│   ├── Configuraciones/
+│   └── Practicas/
+└── 📄 README.md
 
 ---
 
