@@ -33,6 +33,6 @@ dam-modules-review/
 
 <p align="center">
   <a href="https://aulavirtual32.educa.madrid.org/ies.tiernogalvan.madrid/login/index.php">
-    <img src="https://img.shields.io/badge/AulaVirtualB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/AulaVirtual-1367ac?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
