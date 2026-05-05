@@ -25,16 +25,8 @@ Material de repaso y recursos de **1º de DAM (Desarrollo de Aplicaciones Multip
 
 ---
 
-### 🚀 Cómo usar este material
-
-1. Navega por las carpetas según el módulo que quieras repasar.
-2. Cada carpeta tiene sus propios archivos de ejercicios y notas.
-3. Si te sirve el contenido, ¡no olvides darle una ⭐ al repo!
-
----
-
-### 💡 Notas Adicionales
-Este es un repositorio personal para organizar mi estudio en el grado superior. El contenido se va actualizando a medida que avanza el curso.
+> [!Note]
+> Este es un repositorio personal para organizar mi estudio en el grado superior. El contenido se va actualizando a medida que avanza el curso.
 
 ---
 *Hecho por un estudiante de DAM para estudiantes de DAM.*
