@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/Estado-En_Progreso-yellow?style=flat&logo=git&logoColor=white" alt="Status">
 </p>
 
+> [!Note]
+> Este es un repositorio personal y privado para organizar las clases de estudio sobre el primer año del grado superior en desarrollo de aplicaciones multiplataforma. Se irá actualizando el contenido a medida que avancen las clases durante los meses, todos los archivos dentro de este repositorio han sido sacados del aulavirtual.
+
 # 📂 Módulos de DAM
 
 ```text
@@ -33,5 +36,3 @@ dam-modules-review/
 
 ---
 
-> [!Note]
-> Este es un repositorio es personal para organizar las clases de estudio para el grado superior. Se irá actualizando el contenido a medida que avancen las clases.
