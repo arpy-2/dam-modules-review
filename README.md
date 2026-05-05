@@ -1,4 +1,4 @@
-![DAM](https://img.shields.io/badge/Grado-1º_DAM-7159c1?style=flat&logo=bookstack&logoColor=white)
+![DAM](https://img.shields.io/badge/Grado_Superior-1º_DAM-7159c1?style=flat&logo=bookstack&logoColor=white)
 ![Status](https://img.shields.io/badge/Estado-En_Progreso-orange?style=flat&logo=git&logoColor=white)
 ![Content](https://img.shields.io/badge/Contenido-Sistemas_Informaticos_y_Lenguaje_de_Marcas-2ea44f?style=flat&logo=codeforces&logoColor=white)
 
