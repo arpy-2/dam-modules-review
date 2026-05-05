@@ -1,7 +1,7 @@
 
-![DAM](https://img.shields.io/badge/Grado-DAM-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Status](https://img.shields.io/badge/Estado-En_Progreso-orange?style=for-the-badge)
-![Course](https://img.shields.io/badge/Curso-1º_Primero-green?style=for-the-badge)
+![DAM](https://img.shields.io/badge/STUDIES-1º_DAM-7159c1?style=flat-square&logo=bookstack&logoColor=white)
+![Status](https://img.shields.io/badge/PROGRESS-Building-yellow?style=flat-square&logo=git&logoColor=white)
+![Topics](https://img.shields.io/badge/CONTENT-Systems_%26_Markup-2ea44f?style=flat-square&logo=codeforces&logoColor=white)
 
 # Módulos de DAM
 Material de repaso y recursos de **1º de DAM (Desarrollo de Aplicaciones Multiplataforma)**. He creado este repositorio para tener organizados los apuntes, ejercicios y proyectos de los módulos más técnicos del primer año.
