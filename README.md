@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&h=300&q=80" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Grado_Superior-DAM-0066ff?style=flat&logo=bookstack&logoColor=white" alt="DAM">
   <img src="https://img.shields.io/badge/Nivel-Primero-A020F0?style=flat&logo=expertsexchange&logoColor=white" alt="Nivel">
   <img src="https://img.shields.io/badge/Modulos-Sistemas_Informaticos_&_Lenguaje_de_Marcas-2ea44f?style=flat&logo=codeforces&logoColor=white" alt="Content">
