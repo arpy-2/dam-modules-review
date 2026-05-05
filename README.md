@@ -1,8 +1,9 @@
-# Módulos de DAM
+
 ![DAM](https://img.shields.io/badge/Grado-DAM-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Status](https://img.shields.io/badge/Estado-En_Progreso-orange?style=for-the-badge)
 ![Course](https://img.shields.io/badge/Curso-1º_Primero-green?style=for-the-badge)
 
+# Módulos de DAM
 Material de repaso y recursos de **1º de DAM (Desarrollo de Aplicaciones Multiplataforma)**. He creado este repositorio para tener organizados los apuntes, ejercicios y proyectos de los módulos más técnicos del primer año.
 
 ---
