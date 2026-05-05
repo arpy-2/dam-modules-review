@@ -10,29 +10,29 @@
 </p>
 
 > [!Note]
-> Este es un repositorio personal y privado para organizar las clases de estudio sobre el primer año del grado superior en desarrollo de aplicaciones multiplataforma. Se irá actualizando el contenido a medida que avancen las clases durante los meses, todos los archivos dentro de este repositorio han sido sacados del aulavirtual.
+> Este es un repositorio personal y privado para organizar las clases de estudio sobre el primer año del grado superior en desarrollo de aplicaciones multiplataforma. Se irá actualizando el contenido a medida que avancen las clases durante los meses, todos los archivos dentro de este repositorio han sido sacados del [AulaVirtual](https://aulavirtual32.educa.madrid.org/ies.tiernogalvan.madrid/login/index.php).
 
-# 📂 Módulos de DAM
+# 📂 Módulos de DAM dentro del repositorio
 
 ```text
 dam-modules-review/
 ├── lenguaje-de-marcas/
 │   ├── unidades/
+│   ├── guias/
 │   ├── apuntes/
 │   └── ejercicios/
 ├── Sistemas-Informaticos/
 │   ├── unidades/
+│   ├── guias/
 │   ├── apuntes/
 │   └── ejercicios-practicos/
 └── README.md
 ```
----
-
-### 🛠️ Contenido del Repositorio
-
-*   **Apuntes:** Resúmenes de los temas clave de cada unidad.
-*   **Ejercicios:** Prácticas resueltas para repasar antes de los exámenes.
-*   **Configuraciones:** Guías rápidas para máquinas virtuales y entornos de desarrollo.
 
 ---
 
+<p align="center">
+  <a href="https://aulavirtual32.educa.madrid.org/ies.tiernogalvan.madrid/login/index.php">
+    <img src="https://img.shields.io/badge/AulaVirtualB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
