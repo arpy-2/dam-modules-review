@@ -9,8 +9,13 @@
   <img src="https://img.shields.io/badge/Estado-En_Progreso-yellow?style=flat&logo=git&logoColor=white" alt="Status">
 </p>
 
-> [!Note]
-> Este es un repositorio personal y privado para organizar las clases de estudio sobre el primer año del grado superior en desarrollo de aplicaciones multiplataforma. Se irá actualizando el contenido a medida que avancen las clases durante los meses, todos los archivos dentro de este repositorio han sido proporcionados por los profesores dentro del [AulaVirtual](https://aulavirtual32.educa.madrid.org/ies.tiernogalvan.madrid/login/index.php).
+> [!NOTE]
+> <div align="justify">
+> Este es un repositorio personal y privado para organizar las clases de estudio sobre el primer año del grado superior 
+> en desarrollo de aplicaciones multiplataforma. Se irá actualizando el contenido a medida que avancen las clases durante 
+> los meses, todos los archivos dentro de este repositorio han sido proporcionados por los profesores dentro del 
+> <a href="https://aulavirtual32.educa.madrid.org ies.tiernogalvan.madrid/login/index.php">AulaVirtual</a>.
+> </div>
 
 # 📂 Estrucutras de los módulos dados de DAM
 
