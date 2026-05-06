@@ -10,7 +10,7 @@
 </p>
 
 > [!Note]
-> Este es un repositorio personal y privado para organizar las clases de estudio sobre el primer año del grado superior en desarrollo de aplicaciones multiplataforma. Se irá actualizando el contenido a medida que avancen las clases durante los meses, todos los archivos dentro de este repositorio han sido sacados del [AulaVirtual](https://aulavirtual32.educa.madrid.org/ies.tiernogalvan.madrid/login/index.php).
+> Este es un repositorio personal y privado para organizar las clases de estudio sobre el primer año del grado superior en desarrollo de aplicaciones multiplataforma. Se irá actualizando el contenido a medida que avancen las clases durante los meses, todos los archivos dentro de este repositorio han sido proporcionados por los profesores dentro del [AulaVirtual](https://aulavirtual32.educa.madrid.org/ies.tiernogalvan.madrid/login/index.php).
 
 # 📂 Estrucutras de los módulos dados de DAM
 
