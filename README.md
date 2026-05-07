@@ -17,7 +17,7 @@
 > <a href="https://aulavirtual32.educa.madrid.org ies.tiernogalvan.madrid/login/index.php">AulaVirtual</a>.
 > </div>
 
-# 📂 Estrucutras de los módulos dados de DAM
+# 📂 Estructura de los módulos de DAM
 
 ```text
 dam-modules-review/
