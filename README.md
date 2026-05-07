@@ -25,7 +25,7 @@ dam1-modules/
 │   ├── unidades/
 │   ├── apuntes/
 │   └── ejercicios/
-├── Sistemas-informaticos/
+├── sistemas-informaticos/
 │   ├── unidades/
 │   ├── apuntes/
 │   └── ejercicios/
