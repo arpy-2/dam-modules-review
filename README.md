@@ -24,6 +24,7 @@ dam1-modules/
 ├── lenguaje-de-marcas/
 │   └── ejercicios/
 ├── sistemas-informaticos/
+│   ├── notas.md
 │   └── ejercicios/
 ├── ayudas-generales.md
 └── README.md
