@@ -29,6 +29,7 @@ dam1-modules/
 │   ├── unidades/
 │   ├── apuntes/
 │   └── ejercicios/
+├── ayudas-generales.md
 └── README.md
 ```
 
