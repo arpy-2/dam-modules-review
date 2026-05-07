@@ -17,10 +17,10 @@
 > <a href="https://aulavirtual32.educa.madrid.org ies.tiernogalvan.madrid/login/index.php">AulaVirtual</a>.
 > </div>
 
-# 📂 1DAM - Estructura de los módulos dentro del repositorio 
+# 📂 1DAM - Estructura del repositorio 
 
 ```text
-dam-modules-review/
+dam1-modules/
 ├── lenguaje-de-marcas/
 │   ├── unidades/
 │   ├── apuntes/
