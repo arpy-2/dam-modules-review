@@ -22,12 +22,8 @@
 ```text
 dam1-modules/
 ├── lenguaje-de-marcas/
-│   ├── unidades/
-│   ├── apuntes/
 │   └── ejercicios/
 ├── sistemas-informaticos/
-│   ├── unidades/
-│   ├── apuntes/
 │   └── ejercicios/
 ├── ayudas-generales.md
 └── README.md
