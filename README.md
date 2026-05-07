@@ -23,14 +23,12 @@
 dam-modules-review/
 ├── lenguaje-de-marcas/
 │   ├── unidades/
-│   ├── guias/
 │   ├── apuntes/
 │   └── ejercicios/
-├── Sistemas-Informaticos/
+├── Sistemas-informaticos/
 │   ├── unidades/
-│   ├── guias/
 │   ├── apuntes/
-│   └── ejercicios-practicos/
+│   └── ejercicios/
 └── README.md
 ```
 
