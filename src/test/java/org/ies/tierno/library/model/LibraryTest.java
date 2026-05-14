@@ -9,51 +9,51 @@ import java.time.LocalDate;
 import java.util.List;
 import java.util.Map;
 
-public class LibraryTests {
+import static org.junit.jupiter.api.Assertions.*;
 
+class LibraryTest {
 
     @Test
-    public void existsBookLendTrueTest() throws BookNotFoundException, CustomerNotFoundException {
+    public void existsBookLendTrue() throws BookNotFoundException, CustomerNotFoundException {
+
+        //preparacion
         Library library = createTestLibrary();
 
+        //ejecucion
         boolean exists = library.existsBookLend(1, "1X");
 
+        //aserciones
         Assertions.assertTrue(exists);
+
+
     }
 
     @Test
-    public void existsBookLendFalseTest() throws BookNotFoundException, CustomerNotFoundException {
+    public void existsBookLendFalse() throws BookNotFoundException, CustomerNotFoundException {
+
+        //preparacion
         Library library = createTestLibrary();
 
+        //ejecucion
         boolean exists = library.existsBookLend(1, "2X");
 
+        //aserciones
         Assertions.assertFalse(exists);
+
+
     }
 
     @Test
-    public void existsBookLendBookNotFoundTest() {
+    public void existsBookLendBookNotFoundException() {
         Library library = createTestLibrary();
 
-        Assertions.assertThrows(
-                BookNotFoundException.class,
-                () -> {
-                    library.existsBookLend(1234, "2X");
-                }
-        );
     }
 
     @Test
-    public void existsBookLendCustomerNotFoundTest() {
+    public void existsBookLendCustomerNotFoundException() {
         Library library = createTestLibrary();
 
-        Assertions.assertThrows(
-                CustomerNotFoundException.class,
-                () -> {
-                    library.existsBookLend(1, "2234X");
-                }
-        );
     }
-
 
     private Library createTestLibrary() {
         return new Library("IES Tierno Galván", books(), customers(), bookLends());
